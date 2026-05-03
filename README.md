@@ -1,5 +1,5 @@
-TXTEmperor
-A lightweight cross-platform text editor and viewer built with Expo and React Native.
+# TXTEmperor
+## A lightweight cross-platform text editor and viewer built with Expo and React Native.
 Edit, preview, save, and share TXT files on Android, iOS, and the web.
 
 Table of Contents
