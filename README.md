@@ -92,8 +92,3 @@ Notes and caveats
 Contributing
 - Create a feature branch from main, implement changes, add tests if applicable, and open a PR.
 - Please run the project locally to verify changes before pushing.
-
-License
-- This project does not include a LICENSE file in the repository. If you plan to distribute, please add a license (MIT is common for small open-source projects).
-
-If you want me to tailor this README to a specific hosting or add additional sections (e.g., CI, deployment, API docs), tell me your hosting platform and preferences and I’ll refine it.
