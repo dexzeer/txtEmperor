@@ -1,6 +1,6 @@
 # TXTEmperor
 ## A lightweight cross-platform text editor and viewer built with Expo and React Native.
-Edit, preview, save, and share TXT files on Android, iOS, and the web.
+Edit, preview, save, and share TXT files on iOS & Android.
 
 Table of Contents
 - Prerequisites
@@ -37,7 +37,7 @@ npm install
 Note: You may use yarn if you prefer: `yarn install`
 
 Run the app
-- Start dev server (Web, Android, iOS, and Expo Go)
+- Start dev server (Android, iOS and Expo Go)
 ```
 npm start
 ```
